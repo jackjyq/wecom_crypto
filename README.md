@@ -1,6 +1,6 @@
 # 企业微信加解密库
 
-重构企业微信[官方推荐的加解密库](https://github.com/sbzhu/weworkapi_python)，以支持最新的 Python 特性。
+重置企业微信[官方推荐的加解密库](https://github.com/sbzhu/weworkapi_python)，以支持最新的 Python 特性。
 
 ## 依赖安装
 
