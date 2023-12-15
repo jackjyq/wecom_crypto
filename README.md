@@ -7,7 +7,7 @@
 ![](https://img.shields.io/badge/python-3.10-yellow)
 
 ```shell
-pip install pycryptodome pydantic
+pip install pycryptodome
 ```
 
 ## 参考
